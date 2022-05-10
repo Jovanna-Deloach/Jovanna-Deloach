@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Jovanna Deloach</h1>
-<h3 align="center">A wanna-be web developer living in Miami.</h3>
+<h3 align="center">A full-stack web developer living in Miami.</h3>
 
 - 🔭 I’m currently working on **nothing of substance.**
 
