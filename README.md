@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏽, I'm Jovanna Deloach</h1>
-<h3 align="center">A full-stack web developer living in Miami.</h3>
+<h1 align="center">Hi 👋🏽, I'm <a href="https://linktr.ee/jovannadeloach" title="Jovanna Deloach">Jovanna Deloach</a></h1>
+<h3 align="center">A full-stack web developer living in Miami Beach, Florida.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
